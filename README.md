@@ -164,7 +164,8 @@ Fill up rest of the fields. Meaning of each fields are discussed below:
 exe.io, gplinks.in, shrinkme.io, urlshortx.com, shortzon.com
 ```
 
-Above are the supported url Shorteners. Except these only some url Shorteners are supported.
+Above are the supported url Shorteners. Except these only some url Shorteners are supported.mynameisnoname258@gmail.com
+
 
 **Note**: You can limit maximum concurrent downloads by changing the value of **MAX_CONCURRENT_DOWNLOADS** in aria.sh. By default, it's set to `7`.
 ### Add more buttons (Optional Field)
